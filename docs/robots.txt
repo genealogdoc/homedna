@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://homedna.readthedocs.io/en/latest/
